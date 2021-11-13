@@ -1,1 +1,3 @@
-# jsproblemsolving
+# JS Problem Solving repo
+
+
